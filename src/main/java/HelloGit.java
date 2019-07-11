@@ -16,5 +16,6 @@ public class HelloGit {
          System.out.println("公司的一个sb比我先提交了");
         System.out.println("今天真开心，写了200行代码");
         System.out.println("远程分支");
+        System.out.println("我要给张三发过去");
     }
 }
