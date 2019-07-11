@@ -11,5 +11,6 @@ public class HelloGit {
          System.out.println("远程修改1");
         System.out.println("杨盖修改了一下");
         System.out.println("我的小弟改了");
+        System.out.println("yg");
     }
 }
