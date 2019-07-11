@@ -13,5 +13,6 @@ public class HelloGit {
         System.out.println("我的小弟改了");
         System.out.println("yg");
         System.out.println("hhhh");
+        System.out.println("今天真开心，写了200行代码");
     }
 }
